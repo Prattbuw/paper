@@ -1,3 +1,4 @@
 Title: Git stuff
 Authors: Brandon
 Subtitle: I like longer title
+Meaning of Paper: The End
